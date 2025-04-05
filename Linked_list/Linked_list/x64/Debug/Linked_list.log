@@ -1,0 +1,3 @@
+﻿  Linked_list.cpp
+C:\Users\rich5\OneDrive\Desktop\CS_135\Linked_list\Linked_list\Linked_list.cpp(19,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Linked_list.vcxproj -> C:\Users\rich5\OneDrive\Desktop\CS_135\Linked_list\x64\Debug\Linked_list.exe
